@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect width="200" height="200" rx="24" fill="#351018"/>
+  <rect x="14" y="14" width="172" height="172" rx="16" fill="none" stroke="#D4A84F" stroke-width="2"/>
+  <text x="100" y="106" text-anchor="middle" font-family="Noto Naskh Arabic, Amiri, Georgia, serif" font-size="56" font-weight="700" fill="#FFF8E8" letter-spacing="3">BACLIT</text>
+  <line x1="50" y1="126" x2="150" y2="126" stroke="#D4A84F" stroke-width="1.5"/>
+  <text x="100" y="150" text-anchor="middle" font-family="Noto Sans Arabic, sans-serif" font-size="11" fill="#D4A84F" letter-spacing="3" font-weight="600">BAC LETTRES</text>
+  <text x="100" y="168" text-anchor="middle" font-family="Noto Sans Arabic, sans-serif" font-size="8" fill="#C94B3C" letter-spacing="2" font-weight="500">TUNISIE</text>
+</svg>

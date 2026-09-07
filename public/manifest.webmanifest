@@ -1,0 +1,14 @@
+{
+  "name": "BACLIT — Bac Lettres Tunisie",
+  "short_name": "BACLIT",
+  "description": "أول منصة تونسية مخصّصة للـBac Lettres. Résumés, Méthodes, Quiz, Sujets Bac.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF8E8",
+  "theme_color": "#351018",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    { "src": "/baclit-logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
